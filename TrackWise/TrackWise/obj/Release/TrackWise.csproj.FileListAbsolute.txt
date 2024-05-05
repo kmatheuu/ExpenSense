@@ -1,0 +1,10 @@
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\bin\Release\TrackWise.exe.config
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\bin\Release\TrackWise.exe
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\bin\Release\TrackWise.pdb
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Release\TrackWise.csproj.AssemblyReference.cache
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Release\TrackWise.Form1.resources
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Release\TrackWise.Properties.Resources.resources
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Release\TrackWise.csproj.GenerateResource.cache
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Release\TrackWise.csproj.CoreCompileInputs.cache
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Release\TrackWise.exe
+C:\Users\Ron G\source\repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Release\TrackWise.pdb
