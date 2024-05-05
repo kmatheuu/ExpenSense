@@ -1,0 +1,10 @@
+C:\Users\Karl\source\repos\TrackWise\TrackWise\bin\Debug\TrackWise.exe.config
+C:\Users\Karl\source\repos\TrackWise\TrackWise\bin\Debug\TrackWise.exe
+C:\Users\Karl\source\repos\TrackWise\TrackWise\bin\Debug\TrackWise.pdb
+C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.AssemblyReference.cache
+C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.Form1.resources
+C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.Properties.Resources.resources
+C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.GenerateResource.cache
+C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.exe
+C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.pdb
