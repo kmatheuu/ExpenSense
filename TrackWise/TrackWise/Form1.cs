@@ -41,5 +41,13 @@ namespace TrackWise
         {
             Application.Exit();
         }
+
+        private void signup_btn_Click(object sender, EventArgs e)
+        {
+            RegisterForm regForm = new RegisterForm();
+            regForm.Show();
+
+            this.Hide();
+        }
     }
 }
