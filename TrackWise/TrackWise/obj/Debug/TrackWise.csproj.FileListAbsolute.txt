@@ -8,6 +8,7 @@ C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.Genera
 C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.CoreCompileInputs.cache
 C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.exe
 C:\Users\Karl\source\repos\TrackWise\TrackWise\obj\Debug\TrackWise.pdb
+<<<<<<< HEAD
 C:\Users\Ron G\Source\Repos\ExpenSense\TrackWise\TrackWise\bin\Debug\TrackWise.exe.config
 C:\Users\Ron G\Source\Repos\ExpenSense\TrackWise\TrackWise\bin\Debug\TrackWise.exe
 C:\Users\Ron G\Source\Repos\ExpenSense\TrackWise\TrackWise\bin\Debug\TrackWise.pdb
@@ -19,3 +20,16 @@ C:\Users\Ron G\Source\Repos\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.c
 C:\Users\Ron G\Source\Repos\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.CoreCompileInputs.cache
 C:\Users\Ron G\Source\Repos\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.exe
 C:\Users\Ron G\Source\Repos\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.pdb
+=======
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\bin\Debug\TrackWise.exe.config
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\bin\Debug\TrackWise.exe
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\bin\Debug\TrackWise.pdb
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.AssemblyReference.cache
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.Form1.resources
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.Properties.Resources.resources
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.GenerateResource.cache
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.csproj.CoreCompileInputs.cache
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.exe
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.pdb
+>>>>>>> 5bd705f17985e63cc881d21cb40d332b4be8b74f
+C:\Users\Ron G\Source\Repos\kmatheuu\ExpenSense\TrackWise\TrackWise\obj\Debug\TrackWise.RegisterForm.resources

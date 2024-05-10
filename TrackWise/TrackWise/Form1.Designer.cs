@@ -229,15 +229,21 @@
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label close;
+
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+
         private System.Windows.Forms.TextBox login_username;
+
         private System.Windows.Forms.TextBox login_password;
         private System.Windows.Forms.Label label5;
+
         private System.Windows.Forms.Button login_btn;
+
         private System.Windows.Forms.Button signup_btn;
         private System.Windows.Forms.Label label6;
+
         private System.Windows.Forms.CheckBox login_showpass;
         private System.Windows.Forms.Label label2;
     }

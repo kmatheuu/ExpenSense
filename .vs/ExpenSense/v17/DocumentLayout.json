@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ron G\\source\\repos\\ExpenSense\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\TrackWise\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\TrackWise\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\TrackWise\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\TrackWise\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\RegisterForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\TrackWise\\RegisterForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrackWise\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "TrackWise\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-07T11:09:09.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Program.cs",
+              "RelativeDocumentMoniker": "TrackWise\\TrackWise\\Program.cs",
+              "ToolTip": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Program.cs",
+              "RelativeToolTip": "TrackWise\\TrackWise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:19:34.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TrackWise\\TrackWise\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Form1.Designer.cs",
+              "RelativeToolTip": "TrackWise\\TrackWise\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:07:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Form1.cs",
+              "RelativeDocumentMoniker": "TrackWise\\TrackWise\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\Form1.cs",
+              "RelativeToolTip": "TrackWise\\TrackWise\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:07:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "TrackWise\\TrackWise\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\RegisterForm.cs",
+              "RelativeToolTip": "TrackWise\\TrackWise\\RegisterForm.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:07:28.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "TrackWise\\TrackWise\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Ron G\\source\\repos\\kmatheuu\\ExpenSense\\TrackWise\\TrackWise\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "TrackWise\\TrackWise\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:31:22.663Z",
+              "EditorCaption": ""
             }
           ]
         }
