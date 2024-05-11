@@ -203,6 +203,7 @@
             this.register_confirmpassword.PasswordChar = '*';
             this.register_confirmpassword.Size = new System.Drawing.Size(387, 34);
             this.register_confirmpassword.TabIndex = 18;
+            this.register_confirmpassword.TextChanged += new System.EventHandler(this.register_confirmpassword_TextChanged);
             // 
             // label1
             // 
@@ -256,6 +257,7 @@
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "RegisterForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "RegisterForm";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-TrackWise",
+      "appliesTo": "TrackWise/TrackWise.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Form1.Designer",
+      "appliesTo": "TrackWise/TrackWise/Form1.Designer.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-TrackWise",
+      "appliesTo": "TrackWise/TrackWise.sln",
+      "type": "launch"
+    }
+  ]
+}

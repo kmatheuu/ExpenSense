@@ -158,8 +158,10 @@
             this.login_password.Font = new System.Drawing.Font("Georgia", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.login_password.Location = new System.Drawing.Point(391, 240);
             this.login_password.Name = "login_password";
+            this.login_password.PasswordChar = '*';
             this.login_password.Size = new System.Drawing.Size(387, 34);
             this.login_password.TabIndex = 6;
+            this.login_password.TextChanged += new System.EventHandler(this.login_password_TextChanged);
             // 
             // label5
             // 
@@ -181,12 +183,13 @@
             this.login_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.login_btn.Font = new System.Drawing.Font("Georgia", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.login_btn.ForeColor = System.Drawing.Color.White;
-            this.login_btn.Location = new System.Drawing.Point(392, 328);
+            this.login_btn.Location = new System.Drawing.Point(391, 328);
             this.login_btn.Name = "login_btn";
             this.login_btn.Size = new System.Drawing.Size(100, 40);
             this.login_btn.TabIndex = 7;
             this.login_btn.Text = "LOGIN";
             this.login_btn.UseVisualStyleBackColor = false;
+            this.login_btn.Click += new System.EventHandler(this.login_btn_Click);
             // 
             // login_showpass
             // 
@@ -198,6 +201,7 @@
             this.login_showpass.TabIndex = 8;
             this.login_showpass.Text = "Show Password";
             this.login_showpass.UseVisualStyleBackColor = true;
+            this.login_showpass.CheckedChanged += new System.EventHandler(this.login_showpass_CheckedChanged);
             // 
             // Form1
             // 
