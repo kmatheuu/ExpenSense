@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TrackWise",
+    "\\TrackWise\\TrackWise"
   ],
-  "SelectedNode": "\\TrackWise.sln",
+  "SelectedNode": "\\TrackWise\\TrackWise\\RegisterForm.cs",
   "PreviewInSolutionExplorer": false
 }
